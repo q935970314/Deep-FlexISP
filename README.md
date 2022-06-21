@@ -16,7 +16,7 @@ Night photography rendering is challenging due to images’ high noise level, le
 <img src="./figures/structure.png" style="zoom:100%;" />
 
 ## NTIRE22 Night Photography Rendering Challenge
-Our Deep-FlexISP won the ##first place## in people’s choice and photographer’s choice in NTIRE 2022 Night Photography Render Challenge. For more information please refer [here](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf)
+Our Deep-FlexISP won the __first place__ in people’s choice and photographer’s choice in NTIRE 2022 Night Photography Render Challenge. For more information please refer [here](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf)
 
 
 ## Usage
