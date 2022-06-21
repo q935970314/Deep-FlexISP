@@ -34,9 +34,14 @@ Download the dataset from [NTIRE2022 Night Photography Rendering Challenge](http
 bash ./run.sh
 ```
 
-## Docker
+## Docker (recommended)
 The docker container can be downloaded from [here](https://drive.google.com/file/d/1f6EhX3kZvgE6FIj0dRnGuCVryT3BIYOz/view?usp=sharing)
 
+run:
+```
+docker import ./mialgo.tar mialgo
+docker run --gpus all -it --rm -v $PWD/data:/data mialgo /bin/bash
+```
 
 ## Acknowledgement
 Part of our codes are adapted from [fc4-pytorch](https://github.com/matteo-rizzo/fc4-pytorch) and [MW-ISPNet](https://github.com/cszhilu1998/MW-ISPNet). we thank the authors for their contributions.
@@ -54,4 +59,4 @@ Part of our codes are adapted from [fc4-pytorch](https://github.com/matteo-rizzo
 ```
 
 ## Contacts
-Please feel free to open an issue or to send an e-mail to ```liushuai21@xiaomi```
+Please feel free to open an issue or to send an e-mail to ```liushuai21@xiaomi.com```
