@@ -27,7 +27,7 @@ Our Deep-FlexISP won the ##first place## in peopleâ€™s choice and photographerâ€
 * Tensorflow 1.15.1
 
 ### Dataset
-Download the dataset from [NTIRE2022 Night Photography Rendering Challenge](https://nightimaging.org/). And put the ".png" and ".json" into data folder.
+Download the dataset from [NTIRE2022 Night Photography Rendering Challenge](https://nightimaging.org/). And put ".png" and ".json" files into the "data" folder.
 
 ### Evaluation
 ```
@@ -35,7 +35,7 @@ bash ./run.sh
 ```
 
 ## Docker (recommended)
-The docker container can be downloaded from [here](https://drive.google.com/file/d/1f6EhX3kZvgE6FIj0dRnGuCVryT3BIYOz/view?usp=sharing)
+The docker container can be downloaded from [here](https://drive.google.com/file/d/1f6EhX3kZvgE6FIj0dRnGuCVryT3BIYOz/view?usp=sharing).
 
 run:
 ```
