@@ -30,9 +30,9 @@ Deep-FlexISP won the first place in people’s choice and photographer’s choic
 Download the dataset from [NTIRE2022 Night Photography Rendering Challenge](https://nightimaging.org/). And put the ".png" and ".json" into data folder.
 
 ### Evaluation
-'''
+```
 bash ./run.sh
-'''
+```
 
 ## Docker
 The docker container can be downloaded from [here](https://drive.google.com/file/d/1f6EhX3kZvgE6FIj0dRnGuCVryT3BIYOz/view?usp=sharing)
@@ -42,7 +42,7 @@ The docker container can be downloaded from [here](https://drive.google.com/file
 Part of our codes are adapted from [fc4-pytorch](https://github.com/matteo-rizzo/fc4-pytorch) and [MW-ISPNet](https://github.com/cszhilu1998/MW-ISPNet). we thank the authors for their contributions.
 
 ## BibTex
-'''
+```
 @InProceedings{Liu_2022_CVPR,
     author    = {Liu, Shuai and Feng, Chaoyu and Wang, Xiaotao and Wang, Hao and Zhu, Ran and Li, Yongqiang and Lei, Lei},
     title     = {Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering},
@@ -51,7 +51,7 @@ Part of our codes are adapted from [fc4-pytorch](https://github.com/matteo-rizzo
     year      = {2022},
     pages     = {1211-1220}
 }
-'''
+```
 
 ## Contacts
-Please feel free to open an issue or to send an e-mail to '''liushuai21@xiaomi'''
+Please feel free to open an issue or to send an e-mail to ```liushuai21@xiaomi```
