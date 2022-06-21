@@ -4,7 +4,7 @@ By Shuai Liu, Chaoyu Feng, Xiaotao Wang, Hao Wang, Ran Zhu, Yongqiang Li and Lei
 
 Xiaomi Inc., China
 
-This is the official implementation of [Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Liu_Deep-FlexISP_A_Three-Stage_Framework_for_Night_Photography_Rendering_CVPRW_2022_paper.pdf).
+This is the official implementation of our paper [Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Liu_Deep-FlexISP_A_Three-Stage_Framework_for_Night_Photography_Rendering_CVPRW_2022_paper.pdf).
 
 
 
@@ -16,7 +16,7 @@ Night photography rendering is challenging due to images’ high noise level, le
 <img src="./figures/structure.png" style="zoom:100%;" />
 
 ## NTIRE22 Night Photography Rendering Challenge
-Deep-FlexISP won the first place in people’s choice and photographer’s choice in NTIRE 2022 Night Photography Render Challenge. For more information please refer [here](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf)
+Our Deep-FlexISP won the ##first place## in people’s choice and photographer’s choice in NTIRE 2022 Night Photography Render Challenge. For more information please refer [here](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf)
 
 
 ## Usage
