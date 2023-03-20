@@ -1,0 +1,162 @@
+{
+    "black_level": [
+        {
+            "Fraction": [
+                2048,
+                1
+            ]
+        },
+        {
+            "Fraction": [
+                2048,
+                1
+            ]
+        },
+        {
+            "Fraction": [
+                2048,
+                1
+            ]
+        },
+        {
+            "Fraction": [
+                2048,
+                1
+            ]
+        }
+    ],
+    "camera_name": "Canon EOS 7D",
+    "cfa_pattern": [
+        1,
+        2,
+        0,
+        1
+    ],
+    "color_matrix_1": [
+        {
+            "Fraction": [
+                581,
+                500
+            ]
+        },
+        {
+            "Fraction": [
+                -127,
+                200
+            ]
+        },
+        {
+            "Fraction": [
+                1,
+                2000
+            ]
+        },
+        {
+            "Fraction": [
+                -1279,
+                5000
+            ]
+        },
+        {
+            "Fraction": [
+                5073,
+                5000
+            ]
+        },
+        {
+            "Fraction": [
+                2813,
+                10000
+            ]
+        },
+        {
+            "Fraction": [
+                3,
+                1250
+            ]
+        },
+        {
+            "Fraction": [
+                429,
+                5000
+            ]
+        },
+        {
+            "Fraction": [
+                3463,
+                5000
+            ]
+        }
+    ],
+    "color_matrix_2": [
+        {
+            "Fraction": [
+                1711,
+                2500
+            ]
+        },
+        {
+            "Fraction": [
+                -249,
+                2500
+            ]
+        },
+        {
+            "Fraction": [
+                -107,
+                1250
+            ]
+        },
+        {
+            "Fraction": [
+                -969,
+                2500
+            ]
+        },
+        {
+            "Fraction": [
+                11761,
+                10000
+            ]
+        },
+        {
+            "Fraction": [
+                599,
+                2500
+            ]
+        },
+        {
+            "Fraction": [
+                -593,
+                10000
+            ]
+        },
+        {
+            "Fraction": [
+                443,
+                2500
+            ]
+        },
+        {
+            "Fraction": [
+                3099,
+                5000
+            ]
+        }
+    ],
+    "linearization_table": null,
+    "noise_profile": [
+        [
+            0.00013402151522087433
+        ],
+        [
+            3.062049240306014e-07
+        ]
+    ],
+    "orientation": [
+        1
+    ],
+    "white_level": [
+        15400
+    ]
+}
