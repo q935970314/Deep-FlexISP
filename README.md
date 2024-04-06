@@ -7,11 +7,14 @@ Xiaomi Inc., China
 
 This is the official implementation of our paper [Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Liu_Deep-FlexISP_A_Three-Stage_Framework_for_Night_Photography_Rendering_CVPRW_2022_paper.pdf).
 
+## NTIRE 2024 Night Photography Rendering Challenge
+Our __NEW Deep-FlexISP__ won the __second place__ in people’s choice and the __first place__ in speed performance in [NTIRE 2024 Night Photography Render Challenge](https://nightimaging.org/final-leaderboard.html). See more details in Night_Photography_2024 folder.
+
 ## NTIRE 2023 Night Photography Rendering Challenge
-Our __NEW Deep-FlexISP__ won the __third place__ in people’s choice and the __first place__ in photographer’s choice in [NTIRE 2023 Night Photography Render Challenge](https://nightimaging.org/index.html). See more details in Night_Photographyy_2023 folder.
+Our __NEW Deep-FlexISP__ won the __third place__ in people’s choice and the __first place__ in photographer’s choice in [NTIRE 2023 Night Photography Render Challenge](https://nightimaging.org/challenges/2023/final-leaderboard.html). See more details in Night_Photographyy_2023 folder and the [challenge report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Shutova_NTIRE_2023_Challenge_on_Night_Photography_Rendering_CVPRW_2023_paper.pdf).
 
 ## NTIRE 2022 Night Photography Rendering Challenge
-Our Deep-FlexISP won the __first place__ in people’s choice and photographer’s choice in NTIRE 2022 Night Photography Render Challenge. For more information please refer [here](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf).
+Our Deep-FlexISP won the __first place__ both in people’s choice and photographer’s choice in [NTIRE 2022 Night Photography Render Challenge](https://nightimaging.org/challenges/2022/final-leaderboard.html). For more information please refer the [challenge report](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Ershov_NTIRE_2022_Challenge_on_Night_Photography_Rendering_CVPRW_2022_paper.pdf).
 
 ## Introduction
 Night photography rendering is challenging due to images’ high noise level, less vivid color, and low dynamic range. In this work, we propose a three-stage cascade framework named Deep-FlexISP, which decomposes the ISP into three weakly correlated sub-tasks: raw image denoising, white balance, and Bayer to sRGB mapping, for the following considerations. First, task decomposition can enhance the learning ability of the framework and make it easier to converge. Second, weak correlation sub-tasks do not influence each other too much, so the framework has a high degree of freedom. Finally, noise, color, and brightness are essential for night photographs. Our framework can flexibly adjust different styles according to personal preferences with the vital learning ability and the degree of freedom. Compared with the other Deep-ISP methods, our proposed Deep-FlexISP shows state-of-the-art performance.
@@ -44,7 +47,7 @@ docker run --gpus all -it --rm -v $PWD/data:/data mialgo /bin/bash
 ```
 
 ## Acknowledgement
-Part of our codes are adapted from [fc4-pytorch](https://github.com/matteo-rizzo/fc4-pytorch) and [MW-ISPNet](https://github.com/cszhilu1998/MW-ISPNet). we thank the authors for their contributions.
+Part of our codes are adapted from [fc4-pytorch](https://github.com/matteo-rizzo/fc4-pytorch) and [MW-ISPNet](https://github.com/cszhilu1998/MW-ISPNet). We thank the authors for their contributions.
 
 ## BibTex
 ```
