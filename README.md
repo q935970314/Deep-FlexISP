@@ -8,7 +8,7 @@ Xiaomi Inc., China
 This is the official implementation of our paper [Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Liu_Deep-FlexISP_A_Three-Stage_Framework_for_Night_Photography_Rendering_CVPRW_2022_paper.pdf).
 
 ## NTIRE 2024 Night Photography Rendering Challenge
-Our __NEW Deep-FlexISP__ won the __second place__ in people’s choice and the __first place__ in speed performance in [NTIRE 2024 Night Photography Render Challenge](https://nightimaging.org/final-leaderboard.html). See more details in Night_Photography_2024 folder.
+Our __NEW NEW Deep-FlexISP__ won the __second place__ in people’s choice and the __first place__ in speed performance in [NTIRE 2024 Night Photography Render Challenge](https://nightimaging.org/final-leaderboard.html). See more details in Night_Photography_2024 folder.
 
 ## NTIRE 2023 Night Photography Rendering Challenge
 Our __NEW Deep-FlexISP__ won the __third place__ in people’s choice and the __first place__ in photographer’s choice in [NTIRE 2023 Night Photography Render Challenge](https://nightimaging.org/challenges/2023/final-leaderboard.html). See more details in Night_Photographyy_2023 folder and the [challenge report](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Shutova_NTIRE_2023_Challenge_on_Night_Photography_Rendering_CVPRW_2023_paper.pdf).
