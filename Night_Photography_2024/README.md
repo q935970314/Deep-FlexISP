@@ -24,6 +24,11 @@ Finally, we train a segmentation model to segment the sky areas and decrease the
 
 <img src="../figures/nightrender24_mialgo.png" style="zoom:100%;" />
 
+
+## Pretrained checkpoint
+[google drive](https://drive.google.com/file/d/1HSMcNxjqGtcQgOHs4NtHO6rDfsRdXv91/view?usp=sharing)
+
+
 ## Usage (Docker)
 
 run:
